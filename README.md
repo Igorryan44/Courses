@@ -23,13 +23,14 @@ Below is a list of certificates and courses I have successfully finished.
 * **Java Programming Masterclass** - *DIO (80 hrs)*
     * Key topics: OOP, Collections, Concurrency, Lambdas.
     * [View Certificate](#)
-* **Python for Data Science & AI** - *Asimov (40 hrs)*
-    * Key topics: Pandas, NumPy, Data Cleaning.
+* **Python for Data Science & AI** - *Asimov (+13 hrs)*
+    * Key topics: Pandas, NumPy, Data Cleaning, Automation.
     * [View Certificate](#)
 
 ### 🛠️ Tools & DevOps
 * **Version Control with Git** - *Pluralsight (10 hrs)*
     * Focus: Branching strategies, Gitflow, and Merge conflict resolution.
+    * [View Certificate](#Git)
 * **Linux Essentials** - *Linux Foundation (25 hrs)*
     * Focus: Shell scripting, File systems, and Permissions.
 
