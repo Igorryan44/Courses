@@ -28,10 +28,10 @@ Below is a list of certificates and courses I have successfully finished.
     * [View Certificate](#)
 
 ### 🛠️ Tools & DevOps
-* **Version Control with Git** - *Pluralsight (10 hrs)*
+* **Version Control with Git** - *Pluralsight (8 hrs)*
     * Focus: Branching strategies, Gitflow, and Merge conflict resolution.
     * [View Certificate](#Git)
-* **Linux Essentials** - *Linux Foundation (25 hrs)*
+* **Linux Essentials** - *Linux Foundation (8 hrs)*
     * Focus: Shell scripting, File systems, and Permissions.
 
 ---
