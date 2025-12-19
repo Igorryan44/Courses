@@ -10,8 +10,8 @@ Welcome to my central repository for tracking my educational progress. This spac
 | Course Name | Platform | Status | Progress |
 | :--- | :--- | :--- | :--- |
 | Advanced Java & Spring Boot | DIO | 🏗️ In Progress | [▓▓▓▓░░░░░░] 40% |
-| SQL & Database Design | Coursera | 🏗️ In Progress | [▓░░░░░░░░░] 10% |
-| System Design Fundamentals | ByteByteGo | 📖 Reading | [▓░░░░░░░░░] 10% |
+| SQL & Database Design | DIO | 🏗️ In Progress | [▓░░░░░░░░░] 10% |
+| AWS Cloud Practitioner Essentials | AWS Skill Builder | 🏗️ In Progress | [▓░░░░░░░░░] 10% |
 
 ---
 
