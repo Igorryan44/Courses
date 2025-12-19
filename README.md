@@ -54,17 +54,24 @@ Each folder in this repository is organized by category and platform:
 .
 ├── Backend/
 │   ├── Java/
-│   │   └── [Course-Name]/
-│   │       ├── Exercises/
-│   │       └── Notes.md
+│   │   └── Course-Name.pdf
+│   │
 │   ├── Python/
-│
-├── Data/
-│   └── SQL/
+│       └── Course-Name.pdf
 │
 ├── Cloud/
 │   └── AWS/
+│   │
+│   └── Docker/
+│       └── Course-Name.pdf
 │
-├── Tools/
-    ├── Git/
-    └── Docker/
+├── Data/
+│   └── SQL/
+│       └── Course-Name.pdf
+│
+├── Git/
+│   └── Course-Name.pdf
+│
+│
+├── Linux/
+│   └── Course-Name.pdf
