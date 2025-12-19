@@ -10,9 +10,8 @@ Welcome to my central repository for tracking my educational progress. This spac
 | Course Name | Platform | Status | Progress |
 | :--- | :--- | :--- | :--- |
 | Advanced Java & Spring Boot | DIO | 🏗️ In Progress | [▓▓▓▓░░░░░░] 40% |
-| SQL & Database Design | Coursera | 🏗️ In Progress | [▓▓▓▓▓▓▓░░░] 70% |
+| SQL & Database Design | Coursera | 🏗️ In Progress | [▓░░░░░░░░░] 10% |
 | System Design Fundamentals | ByteByteGo | 📖 Reading | [▓░░░░░░░░░] 10% |
-| Python Fundamentals | Asimov | ✅ Complete | [▓▓▓▓▓▓▓▓▓▓] 100% |
 
 ---
 
@@ -21,10 +20,10 @@ Welcome to my central repository for tracking my educational progress. This spac
 Below is a list of certificates and courses I have successfully finished.
 
 ### 💻 Backend & Core Programming
-* **Java Programming Masterclass** - *Udemy (80 hrs)*
+* **Java Programming Masterclass** - *DIO (80 hrs)*
     * Key topics: OOP, Collections, Concurrency, Lambdas.
     * [View Certificate](#)
-* **Python for Data Science & AI** - *IBM / Coursera (40 hrs)*
+* **Python for Data Science & AI** - *Asimov (40 hrs)*
     * Key topics: Pandas, NumPy, Data Cleaning.
     * [View Certificate](#)
 
